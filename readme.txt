@@ -3,6 +3,8 @@ The two papers are:
 1. Show and Tell: A Neural Image Caption Generator
 2. Show, Attend and Tell: Neural Image Caption Generation with Visual Attention
 
+The code is based on https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
+
 In order to run the code, a file called "dataset_coco.json" need to be download and put into the data folder
 
 training steps
