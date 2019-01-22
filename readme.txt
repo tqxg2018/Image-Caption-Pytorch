@@ -5,7 +5,8 @@ The two papers are:
 
 The code is based on https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning
 
-In order to run the code, a file called "dataset_coco.json" need to be download and put into the data folder
+In order to run the code, a file called "dataset_coco.json" need to be download and put into the data folder.
+You can download the file here: http://cs.stanford.edu/people/karpathy/deepimagesent/caption_datasets.zip
 
 training steps
 1. run   pip install -r requirement.txt
